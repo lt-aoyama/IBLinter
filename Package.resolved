@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "IBDecodable",
-        "repositoryURL": "https://github.com/IBDecodable/IBDecodable.git",
+        "repositoryURL": "https://github.com/lt-aoyama/IBDecodable.git",
         "state": {
           "branch": null,
-          "revision": "d36937a8ba23252d2ffab48472605935c9c65477",
-          "version": "0.5.0"
+          "revision": "3f2c88c957a3e524cbc6945d2391d3d4f2e6286d",
+          "version": "0.6.1"
         }
       },
       {
@@ -15,17 +15,17 @@
         "repositoryURL": "https://github.com/jpsim/SourceKitten.git",
         "state": {
           "branch": null,
-          "revision": "558628392eb31d37cb251cfe626c53eafd330df6",
-          "version": "0.31.1"
+          "revision": "fbd6bbcddffa97dca4b8a6b5d5a8246a430be9c7",
+          "version": "0.36.0"
         }
       },
       {
         "package": "swift-argument-parser",
-        "repositoryURL": "https://github.com/apple/swift-argument-parser",
+        "repositoryURL": "https://github.com/apple/swift-argument-parser.git",
         "state": {
           "branch": null,
-          "revision": "e394bf350e38cb100b6bc4172834770ede1b7232",
-          "version": "1.0.3"
+          "revision": "46989693916f56d1186bd59ac15124caef896560",
+          "version": "1.3.1"
         }
       },
       {
@@ -33,8 +33,8 @@
         "repositoryURL": "https://github.com/drmohundro/SWXMLHash.git",
         "state": {
           "branch": null,
-          "revision": "9183170d20857753d4f331b0ca63f73c60764bf3",
-          "version": "5.0.2"
+          "revision": "a853604c9e9a83ad9954c7e3d2a565273982471f",
+          "version": "7.0.2"
         }
       },
       {
@@ -51,8 +51,8 @@
         "repositoryURL": "https://github.com/jpsim/Yams.git",
         "state": {
           "branch": null,
-          "revision": "9ff1cc9327586db4e0c8f46f064b6a82ec1566fa",
-          "version": "4.0.6"
+          "revision": "3036ba9d69cf1fd04d433527bc339dc0dc75433d",
+          "version": "5.1.3"
         }
       }
     ]
